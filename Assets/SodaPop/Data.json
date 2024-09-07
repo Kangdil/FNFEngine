@@ -1,7 +1,13 @@
 {
 	"song": {
-		"player1": "bf funky2",
-		"gfVersion": "gf",
+		"generatedBy": "Psych Engine v1.0b - Chart Editor V-Slice Importer",
+		"charter": "Jenny Crowe + Spazkid + ninjamuffin99",
+		"artist": "Kawai Sprite",
+		"speed": 2.6,
+		"stage": "phillyStreets",
+		"player1": "bf",
+		"player2": "bf",
+		"events": [],
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -4828,47 +4834,11 @@
 				"mustHitSection": true
 			}
 		],
-		"events": [
-			[
-				4800,
-				[
-					[
-						"Play Animation",
-						"drink",
-						"Dad"
-					]
-				]
-			],
-			[
-				21120,
-				[
-					[
-						"Subway Train",
-						"black",
-						""
-					]
-				]
-			],
-			[
-				63360,
-				[
-					[
-						"Subway Train",
-						"octi",
-						""
-					]
-				]
-			]
-		],
-		"player2": "skarletsoda",
-		"player3": null,
-		"splashSkin": "SPLASHES_skarlet",
-		"song": "Soda Pop",
+		"gfVersion": "gf",
+		"format": "psych_v1_convert",
+		"bpm": 182,
 		"needsVoices": true,
-		"arrowSkin": "NOTE_skarlet",
-		"validScore": true,
-		"stage": "subway",
-		"bpm": 250,
-		"speed": 3
+		"song": "2Hot",
+		"offset": 0
 	}
 }
